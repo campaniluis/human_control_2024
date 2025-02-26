@@ -12,8 +12,8 @@ From a database generated for our previous project containing all the discussion
 |---------|----------|
 | **Specific terms using "control"** | "human control", "appropriate control" |
 | **Specific human in control** | "human command and control", "direct supervision and control", "human command", "human responsible chain of command", "human intention", "human user", "human operator" |
-| **Nominal Human input** | "nominal human input", "nominal input", "human input" |
-| **Similar terms used in the discussions** | "human supervision", "human agency", "human involvement", "human interaction", "human intervention", "human validation", "human oversight", "meaningful human decision making", "intervention by the human user", "human responsibility", "human judgment" |
+| **Nominal Human Input** | "nominal human input", "nominal input", "human input" |
+| **Other terms** | "human supervision", "human agency", "human involvement", "human interaction", "human intervention", "human validation", "human oversight", "meaningful human decision making", "intervention by the human user", "human responsibility", "human judgment" |
   
   
   
