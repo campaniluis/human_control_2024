@@ -21,7 +21,7 @@ Our objective is to understand where are the caveats and oppositions to the oper
 
 We proceeded to identify the statements which belonged to each variable of the operationalization. With the sub-corpus assembled, we trimmed the statements to remove all sentences that didn’t talk about human control. Then, based on the framework … we’ve created a set of keywords to find statements that addressed the topic for each aspect of the operationalization. The key-words were also selected based on the explanations given by Boulain at al (2020) [1] of what each aspect of the operationalization refers to. 
 
-### Control Dimensions in Autonomous Weapons Systems
+### Boulain at al (2020) Human Control Operationalization + Key-Words
 
 | Dimension | Aspect | Key-words |
 |-----------|--------|-----------|
