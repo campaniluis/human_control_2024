@@ -40,7 +40,7 @@ We proceeded to identify the statements which belonged to each variable of the o
 |  | Life Cycle | "life cycle" |
 | **How is control exerted?** | Parameters of use | "parameters" |
 |  | Environment | "environment" |
-| **Human-Machine Interaction** | | "human-machine", "human machine", "machine interaction" |
+|  | Human-Machine Interaction | | "human-machine", "human machine", "machine interaction" |
   
 
   
