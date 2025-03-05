@@ -6,7 +6,7 @@ This project seeks to map the debate over the **deadlocks** on the operationaliz
 ## Methodology
 From a database generated for our previous project containing all the discussions on the GGE on LAWS, we created a subcorpus based on a key-word list that would incorporate identified terms referring to human control. Retroactively, we can identify four clusters for the keywords: the ones using the word “control” explicitly; those referring to a specific human in control; those related to the concept of nominal human input, an idea proposed in CCW/GGE.1/2023/WP.2/Rev.1 by the State of Palestine [2]; and other similar terms identified in the database.
   
-### Operationalization of Human Control Terminology
+### Key-word to Identify Statements on Human Control
   
 | Cluster | Key-words |
 |---------|----------|
@@ -67,4 +67,15 @@ The categorization was based on a two-step process, where it was first accessed 
 [1] Boulain, V., Davison, N., Goussac, N., & Peldán Carlsson, M. (2020). Limits on autonomy in weapon systems: Identifying practical elements of human control. Stockholm International Peace Research Institute & International Committee of the Red Cross. Available at: https://www.sipri.org/publications/2020/policy-reports/limits-autonomy-weapon-systems-identifying-practical-elements-human-control
   
 [2] State of Palestine. (2023, March 3). Working Paper. CCW/GGE.1/2023/WP.2/Rev.1. United Nations Office for Disarmament Affairs. Available at: https://meetings.unoda.org/meeting/67246/documents
+
+
+## Copyright
+
+Copyright (c) 2025 [InterAgency Institute](https://interagency.institute)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
